@@ -1,0 +1,52 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Contado",
+		"vencimiento" : 0
+	},
+	{
+		"id" : 2,
+		"nombre" : "Anticipado Transferencia Bancaria",
+		"vencimiento" : 0
+	},
+	{
+		"id" : 3,
+		"nombre" : "15 Días F.F",
+		"vencimiento" : 15
+	},
+	{
+		"id" : 4,
+		"nombre" : "30 Días F.F.",
+		"vencimiento" : 30
+	},
+	{
+		"id" : 5,
+		"nombre" : "Cheque a 15 Días",
+		"vencimiento" : 12
+	},
+	{
+		"id" : 6,
+		"nombre" : "Cheque a 30 Días",
+		"vencimiento" : 30
+	},
+	{
+		"id" : 7,
+		"nombre" : "Mercado Pago",
+		"vencimiento" : 0
+	},
+	{
+		"id" : 8,
+		"nombre" : "Cuenta Corriente",
+		"vencimiento" : 30
+	},
+	{
+		"id" : 9,
+		"nombre" : "60 Días",
+		"vencimiento" : 60
+	},
+	{
+		"id" : 10,
+		"nombre" : "45 Días",
+		"vencimiento" : 45
+	}
+]

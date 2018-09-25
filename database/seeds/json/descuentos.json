@@ -1,0 +1,37 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Neto + IVA",
+		"valor" : 1.00
+	},
+	{
+		"id" : 2,
+		"nombre" : "5% DESC + IVA",
+		"valor" : 0.95
+	},
+	{
+		"id" : 3,
+		"nombre" : "10% DESC + IVA",
+		"valor" : 0.90
+	},
+	{
+		"id" : 4,
+		"nombre" : "15% DESC + IVA",
+		"valor" : 0.85
+	},
+	{
+		"id" : 5,
+		"nombre" : "20% DESC + IVA",
+		"valor" : 0.80
+	},
+	{
+		"id" : 6,
+		"nombre" : "25% DESC + IVA",
+		"valor" : 0.75
+	},
+	{
+		"id" : 7,
+		"nombre" : "30% DESC + IVA",
+		"valor" : 0.70
+	}
+]

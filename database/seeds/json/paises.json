@@ -1,0 +1,62 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Argentina"
+	},
+	{
+		"id" : 2,
+		"nombre" : "Brasil"
+	},
+	{
+		"id" : 3,
+		"nombre" : "EE.UU"
+	},
+	{
+		"id" : 4,
+		"nombre" : "Egipto"
+	},
+	{
+		"id" : 5,
+		"nombre" : "Paraguay"
+	},
+	{
+		"id" : 6,
+		"nombre" : "Uruguay"
+	},
+	{
+		"id" : 7,
+		"nombre" : "Venezuela"
+	},
+	{
+		"id" : 8,
+		"nombre" : "Desconocido"
+	},
+	{
+		"id" : 9,
+		"nombre" : "Japón"
+	},
+	{
+		"id" : 10,
+		"nombre" : "Mexico"
+	},
+	{
+		"id" : 11,
+		"nombre" : "Chile"
+	},
+	{
+		"id" : 12,
+		"nombre" : "Nicaragua"
+	},
+	{
+		"id" : 13,
+		"nombre" : "China"
+	},
+	{
+		"id" : 14,
+		"nombre" : "Bolivia"
+	},
+	{
+		"id" : 15,
+		"nombre" : "Ecuador"
+	}
+]

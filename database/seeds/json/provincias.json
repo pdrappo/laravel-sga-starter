@@ -1,0 +1,176 @@
+[
+	{
+		"pais_id" : 1,
+		"id" : 1,
+		"nombre" : "Santa Fe",
+		"codigo" : "SF"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 2,
+		"nombre" : "Buenos Aires",
+		"codigo" : "BA"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 3,
+		"nombre" : "Córdoba",
+		"codigo" : "CO"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 4,
+		"nombre" : "San Luis",
+		"codigo" : "SL"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 5,
+		"nombre" : "San Juan",
+		"codigo" : "SJ"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 6,
+		"nombre" : "Tucuman",
+		"codigo" : "TU"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 7,
+		"nombre" : "Tierra del Fuego",
+		"codigo" : "TF"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 8,
+		"nombre" : "Entre Ríos",
+		"codigo" : "ER"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 9,
+		"nombre" : "Jujuy",
+		"codigo" : "JU"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 10,
+		"nombre" : "Salta",
+		"codigo" : "SA"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 11,
+		"nombre" : "La Rioja",
+		"codigo" : "LR"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 12,
+		"nombre" : "Catamarca",
+		"codigo" : "CA"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 13,
+		"nombre" : "Chaco",
+		"codigo" : "CH"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 14,
+		"nombre" : "Formosa",
+		"codigo" : "FO"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 15,
+		"nombre" : "La Pampa",
+		"codigo" : "LP"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 16,
+		"nombre" : "Antártida",
+		"codigo" : "AN"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 17,
+		"nombre" : "Neuquén",
+		"codigo" : "NE"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 18,
+		"nombre" : "Río Negro",
+		"codigo" : "RN"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 19,
+		"nombre" : "Mendoza",
+		"codigo" : "ME"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 20,
+		"nombre" : "Capital Federal",
+		"codigo" : "CF"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 21,
+		"nombre" : "Chubut",
+		"codigo" : "CT"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 22,
+		"nombre" : "Santa Cruz",
+		"codigo" : "SC"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 23,
+		"nombre" : "Corrientes",
+		"codigo" : "CO"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 24,
+		"nombre" : "Misiones",
+		"codigo" : "MI"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 25,
+		"nombre" : "Santiago del Estero",
+		"codigo" : "SE"
+	},
+	{
+		"pais_id" : 1,
+		"id" : 26,
+		"nombre" : "Desconocida",
+		"codigo" : "DE"
+	},
+	{
+		"pais_id" : 5,
+		"id" : 47,
+		"nombre" : "Alto Paraná",
+		"codigo" : null
+	},
+	{
+		"pais_id" : 12,
+		"id" : 48,
+		"nombre" : "Managua",
+		"codigo" : "MN"
+	},
+	{
+		"pais_id" : 14,
+		"id" : 49,
+		"nombre" : "Andrés Ibáñez",
+		"codigo" : null
+	}
+]

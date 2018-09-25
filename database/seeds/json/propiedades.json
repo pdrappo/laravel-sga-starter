@@ -1,0 +1,62 @@
+[
+	{
+		"key" : "entidad.calle",
+		"value" : "Calle"
+	},
+	{
+		"key" : "entidad.numero",
+		"value" : "Número"
+	},
+	{
+		"key" : "entidad.piso",
+		"value" : "Piso"
+	},
+	{
+		"key" : "entidad.depto",
+		"value" : "Depto"
+	},
+	{
+		"key" : "entidad.localidad",
+		"value" : "Localidad"
+	},
+	{
+		"key" : "entidad.zipcode",
+		"value" : "Código Postal"
+	},
+	{
+		"key" : "entidad.partido",
+		"value" : "Partido"
+	},
+	{
+		"key" : "entidad.provincia",
+		"value" : "Provincia"
+	},
+	{
+		"key" : "entidad.pais",
+		"value" : "País"
+	},
+	{
+		"key" : "entidad.telefono",
+		"value" : "Teléfono"
+	},
+	{
+		"key" : "entidad.email",
+		"value" : "Email"
+	},
+	{
+		"key" : "entidad.skype",
+		"value" : "Skype"
+	},
+	{
+		"key" : "entidad.web",
+		"value" : "Web"
+	},
+	{
+		"key" : "entidad.latitud",
+		"value" : "Latitud"
+	},
+	{
+		"key" : "entidad.longitud",
+		"value" : "Longitud"
+	}
+]

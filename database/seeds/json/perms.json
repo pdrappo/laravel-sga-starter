@@ -1,0 +1,12 @@
+[
+	{
+		"id" : 1,
+		"key" : "user.admin",
+		"value" : "Administrador"
+	},
+	{
+		"id" : 2,
+		"key" : "user.normal",
+		"value" : "Usuario"
+	}
+]

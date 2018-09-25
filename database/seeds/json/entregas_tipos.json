@@ -1,0 +1,68 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Retiran",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 2,
+		"nombre" : "Comisionista",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 3,
+		"nombre" : "Transporte a deposito",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 4,
+		"nombre" : "Transporte a domicilio",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 5,
+		"nombre" : "Transporte a domicilio (Pago en destino)",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 6,
+		"nombre" : "Transporte a deposito (Pago en destino)",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 7,
+		"nombre" : "Correo a Sucursal",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 8,
+		"nombre" : "Correo a Domicilio",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 9,
+		"nombre" : "Correo a Sucursal (Pago en destino)",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 10,
+		"nombre" : "Correo a Domicilio (Pago en destino)",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	},
+	{
+		"id" : 11,
+		"nombre" : "Aéreo",
+		"created_at" : "2017-11-16T14:07:03Z",
+		"updated_at" : "2017-11-16T14:07:03Z"
+	}
+]

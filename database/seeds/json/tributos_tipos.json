@@ -1,0 +1,22 @@
+[
+	{
+		"iva_tipo_id" : 1,
+		"id" : 1,
+		"nombre" : "Responsable Inscripto"
+	},
+	{
+		"iva_tipo_id" : 1,
+		"id" : 2,
+		"nombre" : "Consumidor Final"
+	},
+	{
+		"iva_tipo_id" : 1,
+		"id" : 3,
+		"nombre" : "Monotributo"
+	},
+	{
+		"iva_tipo_id" : 1,
+		"id" : 4,
+		"nombre" : "Exento"
+	}
+]
